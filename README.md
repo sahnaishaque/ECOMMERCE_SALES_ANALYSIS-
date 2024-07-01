@@ -60,7 +60,3 @@ This E-Commerce Sales Analysis Dashboard provides a detailed overview of sales, 
 
 ## Usage
 This dashboard is intended to help stakeholders quickly identify key metrics and trends in sales performance, profit margins, and product categories. It can be used to make data-driven decisions and strategic planning for improving sales and profitability.
-
-
-This README file provides an outline and explanation of the various components and metrics displayed in the E-Commerce Sales Analysis Dashboard.
-
